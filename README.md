@@ -1,127 +1,63 @@
-# GitHub Profile Achievements 🏆
+<p align="center"> <img src="https://pngimg.com/uploads/github/github_PNG20.png" /> </p>
 
-A collection listing all Achievements available on the GitHub profile.
+# GitHub Community Discussions
 
-Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [announced](https://github.blog/2021-04-19-open-source-goes-to-mars/) the new Achievements section:
+In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
 
-> We are also using this opportunity to introduce a new Achievements section to the GitHub profile. Right now, Achievements include the Mars 2020 Helicopter Mission badge, the [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/) badge, and a badge for sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors).
+## Product Feedback
 
-This repository attempts to list them all.
+| **Feedback Category** | **About the Product** 	|
+|---	|---	|
+| 👍  [Accessibility](https://github.com/orgs/community/discussions/categories/accessibility) 	| [About Accessibility](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-accessibility-settings#about-accessibility-settings) |
+| 🚢  [Actions and Packages](https://github.com/orgs/community/discussions/categories/actions-and-packages) 	| [GitHub Actions](https://github.com/features/actions) and [GitHub Packages](https://github.com/features/packages) |
+| 🔁  [API and Webhooks](https://github.com/orgs/community/discussions/categories/api-and-webhooks) 	| [GitHub API](https://docs.github.com/en/rest) and [GitHub Webhooks](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhook) |
+| 🔎  [Code Search & Navigation](https://github.com/orgs/community/discussions/categories/code-search-and-navigation) 	| [Code Search & Navigation](https://cs.github.com/about) 	|
+| 💻  [Codespaces](https://github.com/orgs/community/discussions/categories/codespaces) 	| [GitHub Codespaces](https://github.com/features/codespaces) 	|
+| 👩‍✈️  [Copilot](https://github.com/orgs/community/discussions/categories/copilot)   	| [GitHub Copilot](https://copilot.github.com/) (Technical Preview) 	|
+| 🤖  [Code Security](https://github.com/orgs/community/discussions/categories/code-security) 	| [GitHub Code Security](https://github.com/features/security) 	|
+| 🗣️  [Discussions](https://github.com/orgs/community/discussions/categories/discussions)  	| [GitHub Discussions](https://docs.github.com/en/discussions) 	|
+| 🌐  [Feed](https://github.com/orgs/community/discussions/categories/feed)  	| [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/) 	|
+| 🎒  [GitHub Education](https://github.com/orgs/community/discussions/categories/github-education)  	| [GitHub Education](https://education.github.com/) 	|
+| 🐙  [Issues](https://github.com/orgs/community/discussions/categories/issues) 	| [GitHub Issues](https://github.com/features/issues) 	|
+| ⭐  [Lists](https://github.com/orgs/community/discussions/categories/lists) 	| [GitHub Lists](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#organizing-starred-repositories-with-lists) (Public Beta) 	|
+| 📱  [Mobile](https://github.com/orgs/community/discussions/categories/mobile) 	| [GitHub Mobile](https://github.com/mobile) 	|
+|🗒️ [Pages](https://github.com/orgs/community/discussions/categories/pages)    | [GitHub Pages](https://docs.github.com/en/pages)  |
+|📶  [Polls](https://github.com/orgs/community/discussions/categories/polls)  	| [GitHub Polls](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 	|
+|  🖼️  [Profile](https://github.com/orgs/community/discussions/categories/profile)  	| [GitHub Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 	|
+| ✔️  [Pull Requests](https://github.com/orgs/community/discussions/categories/pull-requests) 	| [GitHub Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) 	|
+|  💖  [Sponsors](https://github.com/orgs/community/discussions/categories/sponsors) 	| [GitHub Sponsors](https://github.com/sponsors) 	|
+| :octocat:  [General Feedback](https://github.com/orgs/community/discussions/categories/general) 	| [GitHub Docs](https://docs.github.com/en) |
 
-**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria. If you see something not listed here or is incorrect, please open an issue :)
+These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the GitHub product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
-Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements) is how to disable them. [Direct link to the setting for your convenience](https://github.com/settings/profile#profile-settings-heading).
+## Discussions Categories
 
-## Achievements
+You will also find previous Discourse Community Forum categories that have since been updated in GitHub Discussions categories below:
 
-| Title | Badge | Earnable? | Earned by |
-| --- | --- | --- | --- |
-Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
-Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
-Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars
-||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
-YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged a pull request without code review
-||| <!-- this empty row is intentional to separate -->
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
-Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
+| **Discourse Category** | **New Discussions Category** 	|
+|---	|---	|
+| GitHub Help 	| New to GitHub |
+| Code to Cloud 	| Actions and Packages |
+| GitHub Ecosystem 	| APIs and Integrations 	|
+| Uncategorized 	| General 	|
 
-## Tiers
+When creating a new post, make sure to choose the predetermined category that best fits your topic. This will ensure that conversations are indexed by their corresponding product or feature, to help community members quickly find answers to their questions.
 
-Some Achievements not only have the base version, but also tiers.
+This repository works in conjunction with the [GitHub public product roadmap](https://github.com/github/roadmap), which is where you can learn about what features we're working on, and when they'll be available. Accordingly, the Issues feature of this repository has been disabled. Discussion categories have been established for specific features listed above, as well as a general category for other topics. Additional categories may be added in the future. In the meantime, topics outside of the listed categories above, will be transferred into the General category. Please review the [CODE OF CONDUCT](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct) before participating in discussions.
 
-| Title | Tier | Badge | Earned by |
-| --- | --- | --- | --- |
-Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored in 10 merged pull requests
-Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored in 24 merged pull requests
-Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored in 48 merged pull requests
-Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Created a repository that has 128 stars
-Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Created a repository that has 512 stars
-Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | Created a repository that has 4096 stars
-||| <!-- this empty row is intentional to separate -->
-Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
-Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
-Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
-Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
-Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
-Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
+## Making suggestions
 
-## Official list
+We encourage you to [open a discussion](https://github.com/orgs/community/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/community/discussions/1) for guidance on how to kick off a successful discussion.
 
-There ~~is~~ was an official list available in the GitHub Docs at  
-<https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile> ([link to the archived version](https://web.archive.org/web/20220531023858/https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)).  
-There is still a section which includes specifics on how badges were/are awarded, e.g. which [repositories and versions qualified for the Mars 2020 Helicopter Contributor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement).
+Prior to creating a new discussion, please take a look at previous discussions to see if someone else has already shared your suggestion(s). If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new one.
 
-~~Consider this repository a mirror, maybe in the future with historic purpose.~~ Unless there will be an official list again, this is it.
+### From a suggestion to a shipped feature
 
-## Details
+Once you kick off a discussion, the GitHub product team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities GitHub doesn’t have and explore the space for potential solutions to your problem statement:
 
-### Specifics on how to achieve
+- If the product team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmap](https://github.com/github/roadmap).
+- If the product team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
 
-For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
-To the best of our knowledge:
+## Disclaimer
 
-- [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
-- [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
-
-### Tier labels
-
-Each tier has a label associated which includes a color.
-
-| Tier | Label | Sample | Hex | Visual |
-| --- | --- | --- | --- | --- |
-Bronze 🥉 | x2 | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
-Silver 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
-Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
-
-### 100 % samples
-
-[Here](/images/captured/complete) are screenshots of all Achievements at 100 % unlocked as seen in full in the dialog, both light and dark mode.  
-See them live, including the animation some have, for example here:
-
-| Title | Sample |
-| --- | --- |
-Pair Extraordinaire | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
-Quickdraw | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)
-Starstruck | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)
-||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
-Pull Shark | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
-YOLO | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
-||| <!-- this empty row is intentional to separate -->
-Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor)
-Public Sponsor | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
-Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
-
-Do you know a user with all Achievements at the same time? Let me know!
-
-### Variants
-
-[Here](/images/variants) are the variants of Badges including the [Octocat :octocat:](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
-
-## Highlights
-
-The Highlights section below the Achievements including the corresponding badges is currently [best documented in the official GitHub docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
-
-## Previous versions
-
-### 2021-04-19 - 2022-06-09
-
-From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had slightly different designs and names. In other words, they were overhauled on 2022-06-09.
-
-```diff
-- GitHub Sponsor
-+ Public Sponsor
-- Mars 2020 Helicopter Contributor
-+ Mars 2020 Contributor
-```
-
-Here are the old designs and names:
-
-| Title | Badge |
-| --- | --- |
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png)
-GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png)
-Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)
+Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking comments in the public feedback discussions do not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and are intended to outline the general development plans. Customers should not rely on these public feedback discussions to make any purchasing decision.
