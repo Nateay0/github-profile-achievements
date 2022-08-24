@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.pngarts.com/files/8/Github-Logo-Transparent-Background-PNG.png" /> </p>
+<p align="center"> <img src="https://spng.pinpng.com/pngs/s/256-2562212_github-logo-png-github-svg-logo-transparent-png.png" /> </p>
 
 # GitHub Community Discussions
 
