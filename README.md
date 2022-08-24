@@ -1,4 +1,4 @@
-<p align="center"> <img src="" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Nateay0/github-profile-achievements/main/output-onlinepngtools%20(1).png" /> </p>
 
 # GitHub Community Discussions
 
